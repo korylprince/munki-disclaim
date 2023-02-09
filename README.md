@@ -75,3 +75,7 @@ To actually grant permissions to the shim, you'll need to install a profile with
 * Allowed: true
 
 For an example profile see the [here](https://groups.google.com/g/munki-dev/c/hFy4y4g4okc).
+
+# License
+
+This code is licensed under the Apache License 2.0 or MIT licences.
